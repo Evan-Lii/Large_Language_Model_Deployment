@@ -1,4 +1,4 @@
-# Large_Language_Model_Deployment
+i# Large_Language_Model_Deployment
 项目概述
 本项目为人工智能导论第三次课程作业，基于魔搭GPU Notebook平台，完成Qwen-7B-Chat、ChatGLM3-6B、Baichuan2-7B-Chat三款主流开源大语言模型的本地化部署。通过5道高难度中文歧义、嵌套逻辑语义试题，全方位测试三款模型的语义理解、逻辑推理、多义解析能力，并从显存占用、模型结构、算法亮点、实际性能、适用场景五个维度完成横向对比分析，总结不同大模型的差异化优势与适配场景。
 一、实验部署环境
